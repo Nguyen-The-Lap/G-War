@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {}
 =======
 trackSelection = true
@@ -77,4 +76,4 @@ helperWidgetCurrentArea = "all"
 disabledIndexers = ""
 minIndexVariations = 2
 findProviderIndexHelper = true
->>>>>>> 1e420b5e5940c10f233eacf31d1545042c19e222
+
